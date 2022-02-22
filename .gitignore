@@ -42,7 +42,7 @@ Temporary Items
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.venv
+.venv_airline
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,venv
